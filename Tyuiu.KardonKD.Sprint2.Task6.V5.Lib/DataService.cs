@@ -14,7 +14,7 @@ namespace Tyuiu.KardonKD.Sprint2.Task6.V5.Lib
                 case 9: return "Девятка";
                 case 10: return "Десятка";
                 case 11: return "Валет";
-                case 12: return "Дама";
+                case 12: return "дама";
                 case 13: return "Король";
                 case 14: return "Туз";
                 default: throw new ArgumentException("Вы ввели неподходящий номер карты");
