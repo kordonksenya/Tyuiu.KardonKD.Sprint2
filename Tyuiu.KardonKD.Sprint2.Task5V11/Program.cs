@@ -1,5 +1,5 @@
 ﻿using Tyuiu.KardonKD.Sprint2.Task5.V11.Lib;
-namespace Tyuiu.KardonKD.Sprint2.Task5V11
+namespace Tyuiu.KardonKD.Sprint2.Task5.V11
 {
     internal class Program
     {
